@@ -15,7 +15,7 @@ As a data analyst for a yacht and boat sales website, I've been tasked by the ma
 ## Data
 Utilize open-source data sets from Instacart, including customer data. Refer to provided data dictionary and citation for dataset details.
 
-**Instacart Data Sets:**
+**Boat Sales Data:**
 - [Kaggle - Boat Sales Data](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download)
 - [Geographical Data](https://geojson-maps.ash.ms/)
 
