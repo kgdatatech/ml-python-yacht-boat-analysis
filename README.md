@@ -13,7 +13,7 @@ As a data analyst for a yacht and boat sales website, I've been tasked by the ma
 3. Are there common features among the top-viewed boats?
 
 ## Data
-Utilize open-source data sets from Instacart, including customer data. Refer to provided data dictionary and citation for dataset details.
+Utilize open-source data from Kaggle, additional geographical data from geojson.
 
 **Boat Sales Data:**
 - [Kaggle - Boat Sales Data](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download)
