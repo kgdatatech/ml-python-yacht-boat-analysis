@@ -12,11 +12,6 @@ As a data analyst for a yacht and boat sales website, I've been tasked by the ma
 2. Do the priciest boats attract the most attention?
 3. Are there common features among the top-viewed boats?
 
-## Stakeholders
-- Vice President of Marketing: Improve ad campaign targeting.
-- Senior Vice President of Sales: Enhance low-market-share sectors.
-- Instacart Customer: Receive relevant ads, promotions, and recommendations.
-
 ## Data
 Utilize open-source data sets from Instacart, including customer data. Refer to provided data dictionary and citation for dataset details.
 
