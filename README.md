@@ -1,5 +1,5 @@
 # CF-Achievement 6 Project Brief: Yacht and Boat Website Views Analysis 
-**Objective:** Utilizing python and machine learning (ML) to analyze views of yacht and boat listings on an online seller platform.
+**Objective:** Utilizing python with machine learning (ML) to analyze views of yacht and boat listings on an online seller platform.
 
 
 ## I. Context
